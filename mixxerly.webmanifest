@@ -1,0 +1,20 @@
+{
+    "name": "Mixxerly",
+    "short_name": "Mixxerly",
+	"start_url": "https://www.mixxerly.com/",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhq1B-19FimaQxEhZ-_Pks5NA-FJbommZjrtpIWaDPVW-muHh0L1cEropbjskW4Sq9442QR73qtholJ61tz9M57M2IxDcLkJ2AVO0U2mpd6eAmUPl0aI0TOFntgKOmAhjwPsxUQXkoJ_CoqnaIysaRXXkMhDKTo3biDPzGM1l2NXeJp-eZgDZ_knOi0pg",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjSLuz4z7WbreWu0wh06xjb3SRk1o52-jv-onXIgeIak7NP59TDwvKRa6XZCgEVEEvyp8oRGzepOREeUwhOOVBbALPxs78wF5CpLiCiMHvw_1xJW5BXAKtG7gNeLMXKhJFdWsy7dN_BvJfryLtkPZoC-BwuWKqN5jZC8fULQXA4R9KcQAyBBaUMc-Rcbw",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "minimal-ui"
+}
