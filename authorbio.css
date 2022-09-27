@@ -1,0 +1,50 @@
+.mixauthor {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: center;
+	
+	@media all and (max-width: 600px) 	{
+		flex-flow: column nowrap;
+		text-align: center;
+	}
+}
+
+.mixauthor__item {
+	    margin: 0.5rem;
+	
+	@media all and (max-width: 600px) {
+		flex: 1 1 3rem;
+		margin: 0.5rem;
+	}
+}
+
+.mixauthor__pic {
+    object-fit: cover;
+    object-position: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    padding: 2px;
+    border: 2px solid rgba(0, 0, 0, 0.5);
+}
+
+.mixauthor__heading {
+	font-size: 100%;
+	display: inline-block;
+	margin-bottom: 0.5rem;
+	margin-top: 4px;
+	font-size: 14px;
+}
+
+.mixauthor__link {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+	
+	&:hover,
+	&:focus {
+		text-decoration: underline;
+	}
+}
